@@ -30,7 +30,7 @@ export default function Home() {
 
         <div>
           <h5 className={inter.className}>
-            [Petrus Aria C Rambing] | [480757]
+            [Petrus Aria C Rambing] | [21/480757/TK/53050]
           </h5>
         </div>
       </main>
